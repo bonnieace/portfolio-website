@@ -19,8 +19,8 @@ import 'swiper/css/scrollbar';
 const data=[
 {
   avatar:AVTR1,
-  name:'Timmy Demaco',
-  review: 'sit amet consectetur adipisicing elit. Mollitia tempore est enim similique quaerat perferendis voluptatum sunt minima omnis, architecto itaque cupiditate et perspiciatis reprehenderit odio optio animi obcaecati recusandae.'
+  name:'Thamani Cereals',
+  review: 'We tasked the developer with creating a point of sale system for us and we can comfortably say he delivered beyond our expectations.Not only is he commited to his work , he incorporates great creativity in his code to suite the customer'
 },
 {
   avatar:AVTR2,
@@ -47,6 +47,7 @@ const Testimonials = () => {
       <h2>testimonials</h2>
       <div className="container testimonials-container mySwiper"
       slidesPerView={1}
+      Navigation
     
      
       >

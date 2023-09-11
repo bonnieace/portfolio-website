@@ -27,20 +27,21 @@ const About = () => {
           <article className='about-card'>
           <FiUsers className='about-icon'/>
           <h5>  clients</h5>
-          <small>300+ clients internationally</small>
+          <small>5+ clients </small>
 
 
           </article>
           <article className='about-card'>
           <BsFolderFill className='about-icon'/>
           <h5>  Projects</h5>
-          <small>80+completed</small>
+          <small>20+completed</small>
 
 
           </article>
         </div>
      
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum reiciendis voluptas quo reprehenderit, cum quaerat modi expedita illo quos hic eaque blanditiis exercitationem similique ex illum commodi voluptatibus. Possimus, magni!</p>
+        <p>I am a junior developer who takes their code as both art and work. I am very creative working by myself but i am also a great team player when it comes to collaborating with others.
+          I am located in Kenya,Africa </p>
      <a href="#contact" className="btn btn-primary">Lets Talk</a>
       </div>
     </div>

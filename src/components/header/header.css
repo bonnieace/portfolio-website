@@ -66,4 +66,29 @@ header{
    .header-socials,.scroll-down{
     display: none;
    }
+  
+   
 }
+@media screen and (max-width:375px) {
+    header{
+        margin-top: none;
+
+    }
+    
+    .me{
+        width:50%;
+        left:5rem;
+        height: auto;
+    }
+/*
+.header-socials{
+    display: flex;
+flex-direction: column;  
+align-items: center;
+gap: 0.8rem;
+position: absolute;
+left: 0;
+bottom: 3rem;
+
+   }
+*/}
